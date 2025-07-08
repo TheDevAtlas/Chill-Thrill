@@ -1,6 +1,10 @@
 # 🕹️ Chill Thrill - Mini Jam 145 - Frozen ⌛
 
-**'Game jam in 72 hours'**
+<div align="center">
+  <img src="images/O1.png" alt="Otrio Game Image 1" width="250" style="margin-right: 10px;"/>
+  <img src="images/O2.png" alt="Otrio Game Image 2" width="250" style="margin-right: 10px;"/>
+  <img src="images/O3.png" alt="Otrio Game Image 3" width="250"/>
+</div>
 
 ---
 
@@ -11,9 +15,3 @@ Watch my video breakdown here! - [https://www.youtube.com/watch?v=XZ1t62T36xE&t=
 Play The Game Here! - https://thedevatlas.itch.io/chill-thrill
 
 ---
-
-<div align="center">
-  <img src="images/O1.png" alt="Otrio Game Image 1" width="250" style="margin-right: 10px;"/>
-  <img src="images/O2.png" alt="Otrio Game Image 2" width="250" style="margin-right: 10px;"/>
-  <img src="images/O3.png" alt="Otrio Game Image 3" width="250"/>
-</div>
